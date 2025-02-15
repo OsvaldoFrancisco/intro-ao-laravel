@@ -93,5 +93,3 @@ Para mais detalhes, consulte a [documentação oficial](https://laravel.com/docs
 ---
 **Informações de contato:**
 📧 Email: redeao.dev@gmail.com
-
-Desenvolvido com ❤️ usando Laravel.
